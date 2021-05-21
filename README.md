@@ -1,6 +1,10 @@
 # magic_8_ball
 
-Play the magic game.
+Play the magic game. Have a look at this super easy game.
+
+Uploading Record_2021-05-21-14-32-17_0df8c54b5b7292b8423a8716e346b966.mp4…
+
+
 
 ## Getting Started
 
